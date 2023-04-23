@@ -1,6 +1,5 @@
-# vue2demo
-
-> A Vue.js project
+# 需要事先安装
+所有类库都在package.json，右键package.json选择运行run npm install
 
 ## Build Setup
 
